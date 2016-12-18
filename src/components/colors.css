@@ -1,0 +1,19 @@
+h1, h3 {
+    color: #212121;
+}
+
+h2, h4 {
+    color: #4DB6AC;
+}
+
+p {
+    color: #616161;
+}
+
+.progress {
+    background-color: #9E9E9E;
+}
+
+@media print {
+
+}

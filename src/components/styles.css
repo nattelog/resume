@@ -1,0 +1,33 @@
+.base-color, h2, h4 {
+  color: #4db6ac;
+}
+
+h1, h3 {
+  color: #212121;
+}
+
+p {
+  color: #616161;
+}
+
+h2 {
+  font-weight: 400;
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-weight: 300;
+  font-size: 16px;
+}
+
+.progress {
+  background-color: #e0e0e0;
+}
+
+.progress-bar {
+  background-color: #4DB6AC;
+}

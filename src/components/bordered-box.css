@@ -1,0 +1,12 @@
+.bordered-box {
+  border-left: 2px solid #e0e0e0;
+  padding-left: 30px;
+}
+
+.bordered-box > div > div {
+    margin-bottom: 40px;
+}
+
+.bordered-box > div > div:last-child {
+    margin-bottom: 0;
+}

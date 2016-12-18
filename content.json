@@ -1,0 +1,255 @@
+{
+  "lang": "en",
+  "headers": {
+    "profile": {
+      "en": "Profile",
+      "se": "Profil"
+    },
+    "experience": {
+      "en": "Experience",
+      "se": "Erfarenhet"
+    },
+    "education": {
+      "en": "Education",
+      "se": "Utbildning"
+    },
+    "references": {
+      "en": "References",
+      "se": "Referenser"
+    },
+    "contact": {
+      "en": "Contact",
+      "se": "Kontakt"
+    },
+    "skills": {
+      "en": "Skills",
+      "se": "Kunskaper"
+    },
+    "tools": {
+      "en": "Tools",
+      "se": "Verktyg"
+    },
+    "languages": {
+      "en": "Languages",
+      "se": "Språk"
+    }
+  },
+  "data": {
+    "name": "Natanael Log",
+    "title": {
+      "en": "Computer Engineering Student",
+      "se": "Civilingenjörsstudent i Datateknik"
+    },
+    "location": {
+      "en": "Linköping, Sweden",
+      "se": "Linköping"
+    },
+    "contact": {
+      "en": [
+        "1992-10-01",
+        "Vårdkasvägen 7",
+        "587 32 Linköping, Sweden",
+        "+46 76-273 05 49",
+        "me@natanael.se"
+      ],
+      "se": [
+        "1992-10-01",
+        "Vårdkasvägen 7",
+        "587 32, Linköping",
+        "076-273 05 49",
+        "me@natanael.se"
+      ]
+    },
+    "profile": {
+      "en": "Fourth year student at Linköping University aiming for MSc and Engineering in Computer Science. I have several years of experience of summer work in the telecom and software industry and I am always up for new challenges.",
+      "se": "Jag studerar fjärde året till civilingenjör i Datateknik på Linköpings universitet. Jag har flera års erfarenhet av sommarjobb inom telekom och mjukvara och jag är alltid öppen för nya utmaningar."
+    },
+    "experience": {
+      "en": [
+        {
+          "title": "Mentor @ Linköping University",
+          "date": "08/2016 - 10/2016",
+          "description": "New students at the Institute of Technology at Linköping University are always put in classes where each class has a mentor who usually is an upper student. I was a mentor for a new Computer Science-brood for the first half of the semester. For six occasions I explained life at the university and shared my own experience of being a student."
+        },
+        {
+          "title": "Software Developer @ Tieto",
+          "date": "06/2016 - 12/2016",
+          "description": "Tieto Industrial Internet works with the next phase of industrialization: the internet of things. I had the opportunity to work with a small, fun and competent team in Linköping where I developed a front end platform to monitor data sent through the cloud. I also initiated automated testing on the platform as well as on the back end API. During the fall 2016 I worked around 8 hours per week on top of studies."
+        },
+        {
+          "title": "Product Planner @ Adecco/Ericsson",
+          "date": "06/2015 - 08/2015",
+          "description": "The production planning department at Ericsson in Kumla is responsible for planning the surface mount assembly pipeline in the production. During summer I worked with planning systems such as SAP and developed the administration of schedules in Excel to make it easier to present what products to run through the production."
+        },
+        {
+          "title": "Volunteer @ PMU/Sida/Tanzania",
+          "date": "09/2013 - 01/2014",
+          "description": "PMU is the Swedish pentecostal aid organization cooperating with local NGOs in 35 countries around the world. I participated in their annual internship program where I traveled to the small village Nkinga in Tanzania helping children and adults with computer science. I held courses in Microsoft Office helping the eager Tanzanians to develop their understanding of computerised tools that they can use in their work. I also helped develop an administration system in Microsoft Access used by an accountant at the school I worked at. "
+        },
+        {
+          "title": "SMT Operator @ Manpower/Ericsson",
+          "date": "2011 - 2014 (summers)",
+          "description": "Ericsson in Kumla has a surface mount assembly production line where much work is required to make the production run smooth and effective. During summer I maintained the machines making sure they had resources available to work as appropriate."
+        }
+      ],
+      "se": [
+        {
+          "title": "Klassföreståndare @ Linköpings universitet",
+          "date": "08/2016 - 10/2016",
+          "description": "Nya studenter på Linköpings tekniska högskola delas alltid in i klasser och varje klass har en klassföreståndare som i regel själv är en student. Jag fick vara klassföreståndare för en ny Datateknik-kull under första halvan av höstterminen. Under sex tillfällen fick jag berätta om livet på universitetet och dela med mig av mina egna erfarenheter av studentlivet."
+        },
+        {
+          "title": "Mjukvaruutvecklare @ Tieto",
+          "date": "06/2016 - 12/2016",
+          "description": "Tieto Industrial Internet jobbar med nästa fas i industrialiseringen: sakernas internet. Jag fick möjligheten att arbeta tillsammans med ett litet, roligt och kompetent team i Linköping där jag utvecklade en front-end plattform som kunde övervaka data som skickades över molnet. Jag tog också initiativ till att bygga automatiserade tester både till plattformen och till ett back-end API. Under hösten 2016 arbetade jag extra ungefär 8 timmar i veckan utöver studierna."
+        },
+        {
+          "title": "Produktionsplanerare @ Adecco/Ericsson",
+          "date": "06/2015 - 08/2015",
+          "description": "Produktionsplaneringen hos Ericsson i Kumla är ansvariga för planering av ytmonteringsprocessen i produktionen. Under sommaren arbetade jag med planeringssystemet SAP samt utvecklade schemaläggningen i Excel för att göra det enklare att presentera vilka produkter som ska köras i produktionen."
+        },
+        {
+          "title": "SMT Operatör @ Manpower/Ericsson",
+          "date": "2011 - 2014 (sommrar)",
+          "description": "Ericsson i Kumla har ytmonteringsproduktion där mycket arbete krävs för att låta produktionen gå smidigt och effektivt. Under sommaren har jag underhållit maskinerna i produktionen och sett till att de har tillräckligt med resurser för att fungera."
+        }
+      ]
+    },
+    "education": {
+      "en": [
+        {
+          "title": "Computer Science and Engineering (MSc) @ Linköping University",
+          "date": "2011 - present",
+          "description": "Linköping University is one of Sweden's biggest universities with around 27,000 students. I started the engineering program D (\"Civilingenjör i Datateknik\" ~ \"Computer Science Engineering\") which is a five year program leading to a MSc and an Engineer title. I took a break 2012 for two years and continued my second year 2014."
+        },
+        {
+          "title": "Computer Science and Engineering (BSc) @ Linköping University",
+          "date": "2011 - 2016",
+          "description": "As part of my engineering program I was able to take this BSc. A neat treat on my way to MSc."
+        },
+        {
+          "title": "Gymnasium @ Alléskolan",
+          "date": "2008 - 2011",
+          "description": "Alléskolan in Hallsberg is the biggest school in the Örebro region in Sweden containing about 1,600 students. I studied the technology program Teknik with a computer profile."
+        }
+      ],
+      "se": [
+        {
+          "title": "Civilingenjör Datateknik @ Linköpings universitet",
+          "date": "2011 - nuvarande",
+          "description": "Linköpings universitet är ett av Sveriges största universitet med cirka 27000 studenter. Jag började civilingenjörsprogrammet Datateknik (D) som är ett femårigt program som leder till en Masterexamen och en ingenjörstitel. Jag tog studieuppehåll 2012 i två år och fortsatte andra året på utbildningen 2014."
+        },
+        {
+          "title": "Teknologie kandidatexamen Datateknik @ Linköpings universitet",
+          "date": "2011 - 2016",
+          "description": "Mitt i min ingenjörsutbildning fick jag möjlighet att ta ut en kandidatexamen. Ett bra stopp på vägen till min ingenjörsexamen."
+        },
+        {
+          "title": "Teknikprogrammet @ Alléskolan",
+          "date": "2008 - 2011",
+          "description": "Alléskolan i Hallsberg är den största skolan i Örebro län med cirka 1600 studenter. Jag gick Teknikprogrammet med inriktning datateknik."
+        }
+      ]
+    },
+    "references": {
+      "en": [
+        {
+          "title": "Siv Söderlund @ Linköping University",
+          "date": "siv.soderlund@liu.se"
+        },
+        {
+          "title": "Esbjörn Blomquist @ Tieto",
+          "date": "esbjorn.blomquist@tieto.com"
+        },
+        {
+          "title": "Kenneth Abrahamsson @ Ericsson",
+          "date": "kenneth.abrahamsson@ericsson.com"
+        }
+      ],
+      "se": [
+        {
+          "title": "Siv Söderlund @ Linköpings universitet",
+          "date": "siv.soderlund@liu.se"
+        },
+        {
+          "title": "Esbjörn Blomquist @ Tieto",
+          "date": "esbjorn.blomquist@tieto.com"
+        },
+        {
+          "title": "Kenneth Abrahamsson @ Ericsson",
+          "date": "kenneth.abrahamsson@ericsson.com"
+        }
+      ]
+    },
+    "skills": [
+      {
+        "title": "Javascript",
+        "skill": 95
+      },
+      {
+        "title": "Java",
+        "skill": 85
+      },
+      {
+        "title": "C++",
+        "skill": 75
+      },
+      {
+        "title": "C",
+        "skill": 60
+      }
+    ],
+    "tools": [
+      {
+        "title": "npm",
+        "skill": 95
+      },
+      {
+        "title": "Emacs",
+        "skill": 90
+      },
+      {
+        "title": "React",
+        "skill": 90
+      },
+      {
+        "title": "Redux",
+        "skill": 90
+      },
+      {
+        "title": "Angular",
+        "skill": 65
+      }
+    ],
+    "languages": {
+      "en": [
+        {
+          "title": "Swedish",
+          "skill": 100
+        },
+        {
+          "title": "English",
+          "skill": 90
+        },
+        {
+          "title": "Kiswahili",
+          "skill": 40
+        }
+      ],
+      "se": [
+        {
+          "title": "Svenska",
+          "skill": 100
+        },
+        {
+          "title": "Engelska",
+          "skill": 90
+        },
+        {
+          "title": "Kiswahili",
+          "skill": 40
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+.row {
+  margin-bottom: 25px;
+}
+
+.container {
+  padding: 25px;
+}
+
+@media print {
+  .bordered-box > div > div {
+    page-break-after: always;
+  }
+}

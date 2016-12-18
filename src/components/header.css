@@ -1,0 +1,22 @@
+.header-picture {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    display: inline-block;
+    vertical-align: baseline;
+    margin-right: 25px;
+    position: relative;
+    top: 9px;
+}
+
+.header-information {
+    display: inline-block;
+}
+
+.header-name {
+    margin-top: 10px;
+}
+
+.header-lead {
+    margin-bottom: 0px;
+}
