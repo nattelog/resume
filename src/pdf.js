@@ -4,8 +4,9 @@ import pdf from 'html-pdf';
 
 console.log('working...');
 
+const type = process.argv[2] || 'resume';
 const source = 'dist/index.html';
-const destination = './resume.pdf';
+const destination = `./${type}.pdf`;
 const html = fs.readFileSync(source, 'utf8');
 var options = {
   // format: 'A4',

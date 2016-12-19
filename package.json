@@ -6,7 +6,9 @@
   "scripts": {
     "start": "webpack-dev-server --progress --colors",
     "build": "rm -rf dist && webpack",
-    "pdf": "babel-node src/pdf.js"
+    "pdf": "babel-node src/pdf.js",
+    "resume": "npm run build && npm run pdf -- resume",
+    "letter": "npm run build && npm run pdf -- letter"
   },
   "babel": {
     "presets": [

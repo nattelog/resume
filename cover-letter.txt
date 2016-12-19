@@ -1,1 +1,18 @@
-Hello there awesome dude!
+I'm Natanael, a 24 year old engineering student currently in my fourth year of
+studies. I'm expecting to be finished summer 2018. I have 6 years of summer work
+experience at Ericsson and Tieto. Most recently, at Tieto, I developed a web
+platform to monitor data sent through the cloud. I also initiated automated
+testing on the platform as well as on the back end API. During fall 2016 I
+worked 20 % extra on top of studies. I have 5 years of summer work experience at
+Ericsson in Kumla. I've worked there as an SMT operator and a production
+planner.
+
+About myself: married to Sara, great at drums and guitar and love cooking. I'm a
+great teamplayer and most of all a fast learner. Although my freshest software
+experience is of web I have studied both low and high level programming and have
+good knowledge in most of the classic languages such as C, C++, Java and
+Javascript.
+
+I hope you find my profile interesting and I would love to hear more from
+you. Please read my resume for more detail of my skills, education and
+experience.

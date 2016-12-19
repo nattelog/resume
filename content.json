@@ -32,6 +32,10 @@
     "languages": {
       "en": "Languages",
       "se": "Språk"
+    },
+    "br": {
+      "en": "Best regards",
+      "se": "Med vänlig hälsning"
     }
   },
   "data": {
