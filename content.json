@@ -1,5 +1,5 @@
 {
-  "lang": "en",
+  "lang": "se",
   "headers": {
     "profile": {
       "en": "Profile",
@@ -113,6 +113,11 @@
           "description": "Produktionsplaneringen hos Ericsson i Kumla är ansvariga för planering av ytmonteringsprocessen i produktionen. Under sommaren arbetade jag med planeringssystemet SAP samt utvecklade schemaläggningen i Excel för att göra det enklare att presentera vilka produkter som ska köras i produktionen."
         },
         {
+          "title": "Volontär @ PMU/Sida/Tanzania",
+          "date": "09/2013 - 01/2014",
+          "description": "PMU är svenska pingströrelsens biståndsorganisation som jobbar med lokala partners i 35 olika länder. Jag deltog i PMU:s och Sidas praktikantprogram som gav mig möjlighet att resa till den lilla byn Nkinga i Tanzania. Jag undervisade i datakunskap för barn och vuxna och höll kurser i Microsoft Office. Jag utvecklade också ett administrationssystem i Microsoft Access som används av en revisor på skolan."
+        },
+        {
           "title": "SMT Operatör @ Manpower/Ericsson",
           "date": "2011 - 2014 (sommrar)",
           "description": "Ericsson i Kumla har ytmonteringsproduktion där mycket arbete krävs för att låta produktionen gå smidigt och effektivt. Under sommaren har jag underhållit maskinerna i produktionen och sett till att de har tillräckligt med resurser för att fungera."
@@ -162,8 +167,8 @@
           "date": "siv.soderlund@liu.se"
         },
         {
-          "title": "Esbjörn Blomquist @ Tieto",
-          "date": "esbjorn.blomquist@tieto.com"
+          "title": "Aki Sivula @ Tieto",
+          "date": "aki.sivula@tieto.com"
         },
         {
           "title": "Kenneth Abrahamsson @ Ericsson",
@@ -176,8 +181,8 @@
           "date": "siv.soderlund@liu.se"
         },
         {
-          "title": "Esbjörn Blomquist @ Tieto",
-          "date": "esbjorn.blomquist@tieto.com"
+          "title": "Aki Sivula @ Tieto",
+          "date": "aki.sivula@tieto.com"
         },
         {
           "title": "Kenneth Abrahamsson @ Ericsson",
