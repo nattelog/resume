@@ -1,15 +1,9 @@
 import React from 'react';
 import './header.css';
-import picture from '../../static/natanael.jpg';
+import picture from '../../static/sara.jpg';
 import Row from './row';
 import Col from './col';
 import { getData, getHeader } from '../i18n';
-
-const data = {
-  name: 'Natanael Log',
-  title: 'Computer Engineering Student',
-  location: 'Linköping, Sweden'
-};
 
 export default class Header extends React.Component {
   render() {

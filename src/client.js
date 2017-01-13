@@ -7,7 +7,7 @@ import './components/styles.css';
 import Resume from './components/resume';
 import CoverLetter from './components/cover-letter';
 
-const resume = true;
+const resume = false;
 const content = resume ? <Resume /> : <CoverLetter />;
 
 const app = (

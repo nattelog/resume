@@ -17,10 +17,9 @@ export default class CoverLetter extends React.Component {
       <Row>
         <Col n="12">
           <Header />
-          <BorderedBox title="Hi">
+          <BorderedBox title="Hej">
             { paragraphs.map((p, index) => <p key={index}>{p}</p>) }
-            <p>{br},</p>
-            <img className="signature" src={signature} />
+            <p>Med vänlig hälsning,<br />Sara Log</p>
           </BorderedBox>
         </Col>
       </Row>

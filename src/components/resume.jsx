@@ -13,16 +13,12 @@ export default class Resume extends React.Component {
       <Row>
         <Col n="8">
           <Header />
-          <Profile />
           <BorderedBoxList selector="experience" />
           <BorderedBoxList selector="education" />
           <BorderedBoxList selector="references" />
         </Col>
         <Col n="4">
           <Contact />
-          <ProgressList selector="skills" />
-          <ProgressList selector="tools" />
-          <ProgressList selector="languages" />
         </Col>
       </Row>
     );

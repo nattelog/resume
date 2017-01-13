@@ -9,9 +9,9 @@ const source = 'dist/index.html';
 const destination = `./${type}.pdf`;
 const html = fs.readFileSync(source, 'utf8');
 var options = {
-  // format: 'A4',
-  height: '2600px',
-  width: '750px',
+  format: 'A4',
+  // height: '1600px',
+  // width: '750px',
   border: {
     top: '40px',
     left: '20px',
