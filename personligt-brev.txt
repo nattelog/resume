@@ -1,0 +1,19 @@
+Jag heter Natanael. Jag är 24 år och studerar just nu fjärde året i
+civilingenjörsutbildningen D (Datateknik) på Linköpings universitet. Jag tar
+examen sommaren 2018. Jag har sammanlagt sex års erfarenhet av sommarjobb på
+Ericsson och Tieto. Senast, på Tieto, utvecklade jag en webbplattform som
+överblickar data som behandlas i molnet. Och drog också igång automatiserade
+tester både på plattformen men också på ett webb-API. Under hösten 2016 jobbade
+20 % extra på Tieto utöver studierna. Jag har fem års erfarenhet av sommarjobb
+på Ericsson i Kumla. Där har jag både jobbat i produktionen som maskinoperatör
+men också som produktionsplanerare.
+
+Jag själv: gift med Sara, grym på trummor, gitarr och matlagning. Jag är en
+duktig teamplayer och framför allt lär jag mig snabbt. Även om jag har mest
+erfarenhet av webb och Javascript har jag på universitetet läst både låg- och
+högnivåprogrammering och har en god kunskap i de klassiska språken C, C++ och
+Java.
+
+Jag hoppas ni tycker min profil är intressant och att jag får höra mer från
+er. Läs gärna mitt CV för fler detaljer kring mina erfarnheter, kunskaper och
+utbildning.
