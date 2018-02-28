@@ -1,0 +1,103 @@
+{
+  "lang": "se",
+  "headers": {
+    "profile": {
+      "en": "Profile",
+      "se": "Profil"
+    },
+    "experience": {
+      "en": "Experience",
+      "se": "Erfarenhet"
+    },
+    "education": {
+      "en": "Education",
+      "se": "Utbildning"
+    },
+    "references": {
+      "en": "References",
+      "se": "Referenser"
+    },
+    "contact": {
+      "en": "Contact",
+      "se": "Kontakt"
+    },
+    "skills": {
+      "en": "Skills",
+      "se": "Kunskaper"
+    },
+    "tools": {
+      "en": "Tools",
+      "se": "Verktyg"
+    },
+    "languages": {
+      "en": "Languages",
+      "se": "Språk"
+    },
+    "br": {
+      "en": "Best regards",
+      "se": "Med vänlig hälsning"
+    }
+  },
+  "data": {
+    "name": "Sara Log",
+    "title": "Medicinsk sekreterarstudent",
+    "location": "Linköping",
+    "contact": [
+      "1994-07-07",
+      "Vårdkasvägen 7",
+      "587 32, Linköping",
+      "073-991 25 69",
+      "saraester.log@gmail.com"
+    ],
+    "experience": [
+      {
+        "title": "Praktik på Akutmottagningen, Linköping US",
+        "date": "10/2017 - 11/2017",
+        "description": "Här fick jag under 5 veckor lära mig Cosmic, receptionsarbete och journalskrivning."
+      },
+      {
+        "title": "Sommarjobb på Röntgenkliniken, Linköping US",
+        "date": "06/2017 - 08/2017",
+        "description": "På Röntgen fick jag under 10 veckor jobba som Vårdadministratör, framför allt skriva remisser och stå i reception."
+      },
+      {
+        "title": "Praktik på Lambohovs vårdcentral",
+        "date": "03/2017 - 04/2017",
+        "description": "Här fick jag under 5 veckor lära mig om Cosmic, receptionsarbete och journalskrivning."
+      },
+      {
+        "title": "Vikariat inom barnomsorgen",
+        "date": "12/2015 - 09/2016",
+        "description": "Kefas, Skäppan och Växthuset är tre förskolor jag jobbat som vikarie på i Linköping. Jag har tillsammans med ordinarie pedagoger haft ansvar för barn mellan 1-6 år. Jag har haft ett stort pedagogiskt ansvar, fått lösa konflikter, möta föräldrar och arbetat för en trivsam miljö både för barn och pedagoger."
+      },
+      {
+        "title": "Vikariat inom LSS, Fanjunkaregatan 87",
+        "date": "04/2016 - 08/2016",
+        "description": "Fanjunkaregatan 87 är ett gruppboende i Linköping där det bor personer med olika slags funktionsnedsättningar som behöver hjälp med sina vardagliga sysselsättningar. Under sommaren 2016 jobbade där som vikarie och fick hjälpa till med medicinering och vara ett socialt stöd."
+      },
+      {
+        "title": "Vikariat inom LSS, Klockaren",
+        "date": "2014 - 2015",
+        "description": "På Klockarens gruppboende i Kumla bor ungdomar med olika funktionsnedsättningar. Här har jag i mitt sommarjobb och extrajobb fått finnas med som stöd i deras vardag och på deras fritidsaktiviteter."
+      }
+    ],
+    "education": [
+      {
+        "title": "Medicinsk sekreterare, Vårdyrkeshögskolan",
+        "date": "2016 - nuvarande",
+        "description": "Två-årig distansutbildning som utgår från Högskolan i Gävle. Tar examen sommaren 2018."
+      },
+      {
+        "title": "Teamträningskolan, Kaggeholms folkhögskola",
+        "date": "2013 - 2014",
+        "description": "Under läsåret hade jag praktik som ungdomsledare i Pingstförsamlingen i Kumla och läste parallellt studier i ledarskap och teologi på distans från Kaggeholms folkhögskola i Stockholm."
+      },
+      {
+        "title": "Barn och fritidsprogrammet, Alléskolan",
+        "date": "2010 - 2013",
+        "description": "På Alléskolan i Hallsberg läste jag en gymnasieutbildning som handlar om människor i alla åldrar och livsförhållanden."
+      }
+    ],
+    "references": "Referenser lämnas gärna på begäran."
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "lang": "se",
+  "lang": "en",
   "headers": {
     "profile": {
       "en": "Profile",
@@ -40,64 +40,69 @@
   },
   "data": {
     "name": "Sara Log",
-    "title": "Medicinsk sekreterarstudent",
+    "title": "Medical Secretary Student",
     "location": "Linköping",
     "contact": [
       "1994-07-07",
       "Vårdkasvägen 7",
       "587 32, Linköping",
-      "073-991 25 69",
+      "+4673-991 25 69",
       "saraester.log@gmail.com"
     ],
     "experience": [
       {
-        "title": "Praktik på Akutmottagningen, Linköping US",
+        "title": "Internship Renal Clinic, Linköping University Hospital",
+        "date": "02/2018 - 04/2018",
+        "description": "My main tasks have been transcribing medical journals and other various administrative tasks."
+      },
+      {
+        "title": "Internship ER, Linköping University Hospital",
         "date": "10/2017 - 11/2017",
-        "description": "Här fick jag under 5 veckor lära mig Cosmic, receptionsarbete och journalskrivning."
+        "description": "Experience with the medical IT system Cosmic, transcribing medical journals and reception experience."
       },
       {
-        "title": "Sommarjobb på Röntgenkliniken, Linköping US",
+        "title": "Summer work Radiology Clinic, Linköping University Hospital",
         "date": "06/2017 - 08/2017",
-        "description": "På Röntgen fick jag under 10 veckor jobba som Vårdadministratör, framför allt skriva remisser och stå i reception."
+        "description": "For a 10 week period I transcribed referrals, medical journals and worked in the reception"
       },
       {
-        "title": "Praktik på Lambohovs vårdcentral",
+        "title": "Health Centre Internship, Lambohov Linköping",
         "date": "03/2017 - 04/2017",
-        "description": "Här fick jag under 5 veckor lära mig om Cosmic, receptionsarbete och journalskrivning."
+        "description": "5 week internship with experience from the IT system Cosmic, reception work and medical journal transcribing"
       },
       {
-        "title": "Vikariat inom barnomsorgen",
+        "title": "Municipal Child Welfare Substitute, Linköping",
         "date": "12/2015 - 09/2016",
-        "description": "Kefas, Skäppan och Växthuset är tre förskolor jag jobbat som vikarie på i Linköping. Jag har tillsammans med ordinarie pedagoger haft ansvar för barn mellan 1-6 år. Jag har haft ett stort pedagogiskt ansvar, fått lösa konflikter, möta föräldrar och arbetat för en trivsam miljö både för barn och pedagoger."
+        "description": "I worked in three different preschools in Linköping as a substitute teacher, primarily for children between ages 1-6."
       },
       {
-        "title": "Vikariat inom LSS, Fanjunkaregatan 87",
+        "title": "LSS Substitute, Kumla",
         "date": "04/2016 - 08/2016",
-        "description": "Fanjunkaregatan 87 är ett gruppboende i Linköping där det bor personer med olika slags funktionsnedsättningar som behöver hjälp med sina vardagliga sysselsättningar. Under sommaren 2016 jobbade där som vikarie och fick hjälpa till med medicinering och vara ett socialt stöd."
+        "description": "I worked as a substitute in an LSS centre in Kumla. My primary task was to help the care recipients, who all suffered from different physical and mental disabilities, with daily chores and work."
       },
       {
-        "title": "Vikariat inom LSS, Klockaren",
+        "title": "LSS Substitute, Kumla",
         "date": "2014 - 2015",
-        "description": "På Klockarens gruppboende i Kumla bor ungdomar med olika funktionsnedsättningar. Här har jag i mitt sommarjobb och extrajobb fått finnas med som stöd i deras vardag och på deras fritidsaktiviteter."
+        "description": "In the facility called Klockaren, young people with different physical and mental disabilities live. I have worked here full time during summer and part time during the semesters where my primary task has been to help the care recipients with their daily chores and work."
       }
     ],
     "education": [
       {
-        "title": "Medicinsk sekreterare, Vårdyrkeshögskolan",
-        "date": "2016 - nuvarande",
-        "description": "Två-årig distansutbildning som utgår från Högskolan i Gävle. Tar examen sommaren 2018."
+        "title": "Medical Secretary, Vårdyrkeshögskolan Gävle",
+        "date": "2016 - 2018",
+        "description": "This is a two year distance program with Gävle College as base. Will graduate summer 2018."
       },
       {
         "title": "Teamträningskolan, Kaggeholms folkhögskola",
         "date": "2013 - 2014",
-        "description": "Under läsåret hade jag praktik som ungdomsledare i Pingstförsamlingen i Kumla och läste parallellt studier i ledarskap och teologi på distans från Kaggeholms folkhögskola i Stockholm."
+        "description": "One year education with 50 % theory studies in leadership and theology and 50 % internship as youth leader in a local church in my hometown Kumla."
       },
       {
-        "title": "Barn och fritidsprogrammet, Alléskolan",
+        "title": "Child Recreation Programme, Alléskolan Hallsberg",
         "date": "2010 - 2013",
-        "description": "På Alléskolan i Hallsberg läste jag en gymnasieutbildning som handlar om människor i alla åldrar och livsförhållanden."
+        "description": "High school (gymnasium in Swedish) education with focus on children welfare."
       }
     ],
-    "references": "Referenser lämnas gärna på begäran."
+    "references": "References can be presented upon request.."
   }
 }
